@@ -1,0 +1,9 @@
+- Skype for Xoops blocks
+- Author: Mel Bezos, <http://www.bezoops.net>
+- Version 0.3 - 21-Oct-2005, Spain
+---------------------------------------------
+
+
+*** Readme in /extra/help/readme.html
+
+*** Leeme en /extra/help/leeme.html
